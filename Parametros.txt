@@ -1,0 +1,57 @@
+Itens: 
+
+– Corda de escalada (50 ou 60 metros) 
+Beneficio: 9
+Peso: 4,4 KG
+– Capacete (importantíssimo) 
+Beneficio: 8
+Peso: 0,35 KG
+– Cadeirinha 
+Beneficio: 5
+Peso: 0,395 KG
+– Fitas tubulares 
+Beneficio: 5
+Peso: 0,035 KG
+– Cordeletes (com 5mm de diâmetro) 
+Beneficio: 7
+Peso: 0,031 KG
+– Mosquetões com rosca 
+Beneficio: 4
+Peso: 0,078 KG
+– Mosquetões simples 
+Beneficio: 3
+Peso: 0,078 KG
+– Costuras 
+Beneficio: 9
+Peso: 0,95 KG
+– Freios de segurança 
+Beneficio: 5
+Peso: 2,664 KG
+– Cantil 
+Beneficio: 4
+Peso: 0.24 KG
+– Lanterna de cabeça
+Beneficio: 8
+Peso: 0,096 KG
+– Lanterna 
+Beneficio: 8
+Peso: 0,13 KG
+– Pilhas e lâmpadas reserva 
+Beneficio: 2
+Peso: 0,499 KG
+– Roupa impermeável 
+Beneficio: 3
+Peso: 0,8 KG
+– Carteira de identificação 
+Beneficio: 8
+Peso: 0.060 KG
+– Kit primeiros socorros 
+Beneficio: 7
+Peso: 2 KG
+– Câmara fotográfica com filme 
+Beneficio: 1
+Peso: 0,300 KG
+
+
+O peso da mochila suportara até 10% do peso do individuo 
+Algumas mochilastem o max de 26 litros.
